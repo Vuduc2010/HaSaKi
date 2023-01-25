@@ -31,44 +31,42 @@ UU:::::U     U:::::UUS:::::S     SSSSSSSEE::::::EEEEEEEEE::::ERR:::::R     R::::
   UU:::::::::::::UU  S::::::SSSSSS:::::SE::::::::::::::::::::ER::::::R     R:::::R
     UU:::::::::UU    S:::::::::::::::SS E::::::::::::::::::::ER::::::R     R:::::R
       UUUUUUUUU       SSSSSSSSSSSSSSS   EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
-                              TOOL BY ĐÀO XUÂN THẮNG 😘
-                              zalo 0329067158 """)
+                              TOOL BY VŨ MINH ĐỨC 😩
+                              zalo 0962168757 """)
     time.sleep(1.8)
     clear()
 
 def si():
-    print("Zalo/Call: 0329067158")
+    print("Zalo/Call: 0962168757")
     print("Information: coming soon")
 
 def menu():
-    sys.stdout.write(f" tool by DAO XUAN THANG")
+    sys.stdout.write(f" TOOL BY VU MINH DUC ")
     clear()
-    print('  omarV3 DDOS ')
-    print("zalo 0329067158")
+    print('  HaSaKi DDOS ')
+    print("zalo 0962168757")
     print(Fore.YELLOW + """
-\033[1;31m
-                   .-"      "-.
-                  /            \\
-                 | \033[1;33m ${Omarv3}\033[1;31m  |
-                 |,  .-.  .-.  ,|
-                 | )(__/  \__)( |
-                 |/     /\     \|
-       (@_       (_     ^^     _)
-  _     ) \_______\__|IIIIII|__/__________________________
- (_)@8@8{}<________|-\IIIIII/-|_\033[1;32mA\033[1;31m_\033[1;32mN\033[1;31m_\033[1;32mO\033[1;31m_\033[1;32mN\033[1;31m_\033[1;32mY\033[1;31m_\033[1;32mM\033[1;31m_\033[1;32mO\033[1;31m_\033[1;32mU\033[1;31m_\033[1;32mS\033[1;31m_\033[1;32mA\033[1;31m_\033[1;32mR\033[1;31m_\033[1;32mA\033[1;31m_\033[1;32mB\033[1;31m_>
-        )_/        \          /
-       (@           `--------` \033[1;37mDD0$Eq\033[1;31m!\033[1;37m
-            [---]   by:>\033[1;32m Đào Xuân Thắng\033[1;37m   [---]\033[1;32m
-            =-------=-=-=-=-=-=-=-=-=-------=
-    TOOL BY ( Đào Xuân Thắng)   
- +METHODS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+             ╦ ╦ ╔═╗ ╔═╗ ╔═╗ ╦╔═ ╦
+             ╠═╣ ╠═╣ ╚═╗ ╠═╣ ╠╩╗ ║
+             ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩ ╩ ╩ ╩
+          ╚══╦═══════════════════╦══╝
+       ╔═════╩═══════════════════╩══════╗
+       ║     Facebook:Vũ Minh Đức (12T) ║
+       ║     Zalo:0962168757            ║
+       ╚═══════╦═══════════════╦════════╝
+           ╔═══╩═══════════════╩═══╗
+           ║   Admin:Vũ Minh Đức   ║
+           ╚═══════════════════════╝ 
+       <--------------------------------->
+    TOOL BY ( Vũ Minh Đức)   
+ +Lệnh DDOS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
  - http-raw [url]  [time] 
 """)
 
 def main():  
     menu()
     while(True):
-        cnc = input('''Daoxuanthang@omar: ''')
+        cnc = input('''Vuminhduc@HaSaKi ''')
         if cnc == "layer7" or cnc == "LAYER7" or cnc == "L7" or cnc == "l7":
             ()
         elif cnc == "layer4" or cnc == "LAYER4" or cnc == "L4" or cnc == "l4":
@@ -164,16 +162,16 @@ def main():
 main()
 def login():
     clear()
-    user = "2007"
-    passwd = "2007"
+    user = "HaSaKi"
+    passwd = "HaSaKi"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
         print("")
-        print("Không Làm Mà Đòi Có Ăn")
+        print("Không Làm Mà Đòi Có Cứt")
         sys.exit(1)
     elif username == user and password == passwd:
-        print("Chào Thằng Con Cặc")
+        print("Chào Thằng Lồn")
         time.sleep(3.5)
         ascii_vro()
         main()
