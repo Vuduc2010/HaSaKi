@@ -46,6 +46,7 @@ def menu():
     print('  HaSaKi DDOS ')
     print("zalo 0962168757")
     print(Fore.YELLOW + """
+
              ╦ ╦ ╔═╗ ╔═╗ ╔═╗ ╦╔═ ╦
              ╠═╣ ╠═╣ ╚═╗ ╠═╣ ╠╩╗ ║
              ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩ ╩ ╩ ╩
